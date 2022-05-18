@@ -1,6 +1,5 @@
 ﻿Feature: API-Scenarios
 
-
 @mytag
 Scenario: Simple GET Request
 	Given I have a 'GET' API 'SimpleGetAPI'
