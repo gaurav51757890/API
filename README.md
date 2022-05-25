@@ -49,6 +49,3 @@ To use this framework you need to perform following steps:
 5.	Segregate the test data as per the test environment. 
 6.	Test data should be in .json format.
 7.	Follow the specflow feature file scenario standards (scenario standards can also be customized).
-
-
-
